@@ -2,10 +2,10 @@
 This is a collection of Jupyter notebooks containing different implementations of a few supervised and unsupervised machine learning models.
 
 ## Table of Contents
-- Gradient Descent 
 - Unsupervised 
     - K - Means Clustering
 - Supervised
+    - Gradient Descent 
     - Classification
         - KNN
         - Logistic Regression
