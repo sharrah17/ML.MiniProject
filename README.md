@@ -1,4 +1,4 @@
-# Data4319.Final
+# Machine Learning Algorithms
 This is a collection of Jupyter notebooks containing different implementations of a few supervised and unsupervised machine learning models.
 
 ## Table of Contents
